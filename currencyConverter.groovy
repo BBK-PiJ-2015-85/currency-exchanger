@@ -1,4 +1,4 @@
-print "If I give you £1, how many Euros will you give me? ";
+print "If I give you £1, how many Euros will you give me? NONE!! ";
 double euroOverPoundRatio = Double.parseDouble(System.console().readLine());
 double poundOverEuroRatio = (1/euroOverPoundRatio)
 //Think this should work
