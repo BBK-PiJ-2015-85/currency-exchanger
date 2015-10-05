@@ -33,5 +33,7 @@ while (!finished) {
 	  println "Sorry, that is not a valid option";
     }	  
 }
+println "add 2"
+println "add 2"
 println "Exiting the program";
 
